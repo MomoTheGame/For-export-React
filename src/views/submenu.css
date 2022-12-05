@@ -1,0 +1,202 @@
+.submenu-container {
+  min-height: 100vh;
+}
+.submenu-submenu {
+  width: 100%;
+  height: 961px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.submenu-rectangle18 {
+  top: 0px;
+  left: 1219px;
+  width: 681px;
+  height: 961px;
+  position: absolute;
+  border-color: transparent;
+}
+.submenu-peblar-logo-black2 {
+  top: 50px;
+  left: 1277px;
+  width: 149px;
+  height: 60px;
+  position: absolute;
+  border-color: transparent;
+}
+.submenu-submenu-options {
+  top: 208px;
+  left: 1501px;
+  width: 119px;
+  height: 534px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.submenu-text {
+  top: 178px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Kallisto;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.submenu-text02 {
+  top: 230px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Kallisto;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.submenu-text04 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Kallisto;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.submenu-text06 {
+  top: 344px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Kallisto;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.submenu-text08 {
+  top: 64px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Kallisto;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.submenu-text10 {
+  top: 396px;
+  left: 33px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Kallisto;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.submenu-text12 {
+  top: 510px;
+  left: 4px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Kallisto;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.submenu-text14 {
+  top: 908px;
+  left: 1262px;
+  color: rgba(177, 178, 178, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Light;
+  text-align: center;
+  font-family: Kallisto;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.submenu-downarrow1 {
+  top: 911px;
+  left: 1374px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: transparent;
+}
+.submenu-rectangle17 {
+  top: 0px;
+  left: 0px;
+  width: 1219px;
+  height: 961px;
+  position: absolute;
+  border-color: transparent;
+}
+.submenu-close11 {
+  top: 50px;
+  left: 1818px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}

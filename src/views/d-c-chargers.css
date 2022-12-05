@@ -1,0 +1,1189 @@
+.d-c-chargers-container {
+  min-height: 100vh;
+}
+.d-c-chargers-d-c-chargers {
+  width: 100%;
+  height: 2469px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(245, 245, 245, 1);
+}
+.d-c-chargers-group1 {
+  top: 29px;
+  left: 596px;
+  width: 159px;
+  height: 19px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kallisto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-group2 {
+  top: 29px;
+  left: 932px;
+  width: 78px;
+  height: 19px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-text02 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kallisto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-group3 {
+  top: 29px;
+  left: 1169px;
+  width: 107px;
+  height: 19px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-text04 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kallisto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-peblar-logo-gold-r-g-b1 {
+  top: 18px;
+  left: 160px;
+  width: 99px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-hamburger11 {
+  top: 23px;
+  left: 1712px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-footer {
+  top: 1973px;
+  left: 0px;
+  width: 1900px;
+  height: 496px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 0, 0, 1);
+}
+.d-c-chargers-text06 {
+  top: 86px;
+  left: 481px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text08 {
+  top: 139px;
+  left: 482px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text10 {
+  top: 181px;
+  left: 482px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text12 {
+  top: 223px;
+  left: 482px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text14 {
+  top: 265px;
+  left: 481px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text16 {
+  top: 456px;
+  left: 85px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text18 {
+  top: 139px;
+  left: 803px;
+  color: rgba(255, 255, 255, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text20 {
+  top: 179px;
+  left: 803px;
+  color: rgba(255, 255, 255, 1);
+  width: 70px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text22 {
+  top: 219px;
+  left: 803px;
+  color: rgba(255, 255, 255, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text24 {
+  top: 259px;
+  left: 802px;
+  color: rgba(255, 255, 255, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text26 {
+  top: 139px;
+  left: 1122px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text28 {
+  top: 180px;
+  left: 1122px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text30 {
+  top: 221px;
+  left: 1122px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text32 {
+  top: 89px;
+  left: 802px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text34 {
+  top: 89px;
+  left: 1122px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text36 {
+  top: 92px;
+  left: 1443px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-peblar-logodescriptor-grey1 {
+  top: 56px;
+  left: 85px;
+  width: 222px;
+  height: 60px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-facebook11 {
+  top: 139px;
+  left: 1445px;
+  width: 20px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-twittersign11 {
+  top: 139px;
+  left: 1505px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-linkedin1 {
+  top: 139px;
+  left: 1655px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-instagram1 {
+  top: 140px;
+  left: 1580px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-text38 {
+  top: 260px;
+  left: 1122px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text40 {
+  top: 147px;
+  left: 758px;
+  color: rgba(243, 146, 7, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kallisto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.d-c-chargers-rectangle21 {
+  top: 385px;
+  left: 0px;
+  width: 1900px;
+  height: 626px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-noimgportrait1 {
+  top: 494px;
+  left: 1418px;
+  width: 220px;
+  height: 330px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-noimgportrait2 {
+  top: 1096px;
+  left: 1418px;
+  width: 220px;
+  height: 330px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-group19 {
+  top: 434px;
+  left: 160px;
+  width: 534px;
+  height: 271px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-text42 {
+  color: rgba(243, 146, 7, 1);
+  height: auto;
+  position: absolute;
+  font-size: 37px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kallisto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text44 {
+  top: 179px;
+  color: rgba(0, 0, 0, 1);
+  width: 534px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-group20 {
+  top: 905px;
+  left: 170px;
+  width: 1491px;
+  height: 61px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-group6 {
+  top: 12px;
+  left: 1378px;
+  width: 113px;
+  height: 34px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-black-bar {
+  top: 0px;
+  left: 0px;
+  width: 113px;
+  height: 34px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-text49 {
+  top: 8px;
+  left: 9px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kallisto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text51 {
+  top: 20px;
+  left: 1223px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kallisto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-group7 {
+  top: 2px;
+  left: 183px;
+  width: 152px;
+  height: 34.40678024291992px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-flash1 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 34px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-text53 {
+  top: 8px;
+  left: 56px;
+  color: rgba(0, 0, 0, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-group10 {
+  top: 0px;
+  left: 0px;
+  width: 146px;
+  height: 41px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-connecteurtype21 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-text55 {
+  top: 3px;
+  left: 56px;
+  color: rgba(0, 0, 0, 1);
+  width: 90px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-group9 {
+  top: 2px;
+  left: 397px;
+  width: 191px;
+  height: 59px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-text60 {
+  top: 2px;
+  left: 56px;
+  color: rgba(0, 0, 0, 1);
+  width: 135px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-transfer1 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-wifi1 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-group71 {
+  top: 1504px;
+  left: 353px;
+  width: 152px;
+  height: 34.40678024291992px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-flash11 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 34px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-text65 {
+  top: 8px;
+  left: 56px;
+  color: rgba(0, 0, 0, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-group101 {
+  top: 1502px;
+  left: 170px;
+  width: 146px;
+  height: 41px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-connecteurtype211 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-text67 {
+  top: 3px;
+  left: 56px;
+  color: rgba(0, 0, 0, 1);
+  width: 90px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-group91 {
+  top: 1504px;
+  left: 567px;
+  width: 191px;
+  height: 59px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-text72 {
+  top: 2px;
+  left: 56px;
+  color: rgba(0, 0, 0, 1);
+  width: 135px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-transfer11 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-wifi11 {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-rectangle27 {
+  top: 1973px;
+  left: 0px;
+  width: 1900px;
+  height: 350px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-group18 {
+  top: 1049px;
+  left: 161px;
+  width: 575px;
+  height: 218px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-text77 {
+  color: rgba(243, 146, 7, 1);
+  height: auto;
+  position: absolute;
+  font-size: 37px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kallisto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text79 {
+  top: 179px;
+  color: rgba(0, 0, 0, 1);
+  width: 534px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-group11 {
+  top: 1516px;
+  left: 1548px;
+  width: 113px;
+  height: 34px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-black-bar1 {
+  top: 0px;
+  left: 0px;
+  width: 113px;
+  height: 34px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-text84 {
+  top: 8px;
+  left: 9px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kallisto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text86 {
+  top: 1524px;
+  left: 1393px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kallisto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.d-c-chargers-text88 {
+  top: 1789px;
+  left: 616px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.d-c-chargers-group13 {
+  top: 1866px;
+  left: 869px;
+  width: 162px;
+  height: 34px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.d-c-chargers-black-bar2 {
+  top: 0px;
+  left: 0px;
+  width: 162px;
+  height: 34px;
+  position: absolute;
+  border-color: transparent;
+}
+.d-c-chargers-text90 {
+  top: 8px;
+  left: 9px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kallisto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-c-chargers-text92 {
+  top: 1712px;
+  left: 321px;
+  color: rgba(243, 146, 7, 1);
+  height: auto;
+  position: absolute;
+  font-size: 37px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Kallisto;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.d-c-chargers-text94 {
+  top: 254px;
+  left: 323px;
+  color: rgba(0, 0, 0, 1);
+  width: 1253px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.d-c-chargers-rectangle49 {
+  top: 917px;
+  left: 1380px;
+  width: 141px;
+  height: 34px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.d-c-chargers-rectangle50 {
+  top: 1516px;
+  left: 1380px;
+  width: 141px;
+  height: 34px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}

@@ -1,0 +1,67 @@
+.stillnotconvinced-container {
+  min-height: 100vh;
+}
+.stillnotconvinced-stillnotconvinced {
+  width: 100%;
+  height: 2351px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.stillnotconvinced-overlay {
+  top: 0px;
+  left: 0px;
+  width: 1910px;
+  height: 3307px;
+  position: absolute;
+  border-color: transparent;
+}
+.stillnotconvinced-group14 {
+  top: 923px;
+  left: 632px;
+  width: 636px;
+  height: 594px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 1);
+}
+.stillnotconvinced-text {
+  top: 88px;
+  left: 50px;
+  color: rgba(0, 0, 0, 1);
+  width: 499px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Eurostile LT Std;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.stillnotconvinced-close11 {
+  top: 35px;
+  left: 559px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
